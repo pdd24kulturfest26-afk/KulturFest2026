@@ -138,7 +138,7 @@ body {
 @media (max-width: 768px) {
 
     .navbar {
-        width: calc(100% - 30px);
+        width: auto;
         padding: 10px 15px;
         border-radius: 25px;
 
